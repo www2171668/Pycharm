@@ -1,0 +1,24 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="token" value="e88646017275256e3931e877fe9ca30ceeb26ff93ac0c9cd" />
+          <option name="urlString" value="http://localhost:8888/" />
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="C:/Soft/ProNew/.idea/ProNew.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="e88646017275256e3931e877fe9ca30ceeb26ff93ac0c9cd" />
+              <option name="urlString" value="http://localhost:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

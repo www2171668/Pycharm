@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="976" />
+    <option name="newTranslationDialogY" value="243" />
+    <histories>
+      <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
+      <item value="first project" />
+      <item value="inverse frequency with which to perform the operation." />
+      <item value="first observation of a skill" />
+      <item value="Conditional operations" />
+      <item value="Log metrics through logging." />
+      <item value="Flattens and caches the tensor's batch_dims" />
+      <item value="Exposes a pair of matched flatten and unflatten methods." />
+      <item value="Facilitates flattening and unflattening batch dims of a tensor" />
+      <item value="allows outside to stop enqueue and dequeue processes from waiting" />
+      <item value="Current ending positions of data in the buffer without modulo." />
+      <item value="Add a batch of items to the buffer (atomic)." />
+      <item value="We anyways need to check has_space after the wait timed out." />
+      <item value="Terminology: we use ``pos`` as in ``_current_pos`` to refer to the always increasing position of an element in the infinitly long buffer," />
+      <item value="all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
+      <item value="Batched Ring Buffer." />
+      <item value="Multiprocessing safe, optionally via: ``allow_multiprocess`` flag, blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
+      <item value="A simple circular buffer supporting random sampling" />
+      <item value="type of sampler used to get samples from marginal distribution," />
+      <item value="shuffle" />
+      <item value="diagonal normal distribution" />
+      <item value="solftplus" />
+      <item value="marginal" />
+      <item value="experience" />
+      <item value="product" />
+      <item value="joint" />
+      <item value="distribution" />
+      <item value="Q is the product marginal distribution of P." />
+      <item value="product marginal distribution of P." />
+      <item value="Hjelm" />
+      <item value="for evaluating the network(s) parameterized by the generator's outputs (given by self._predict) on the training batch (predefined with transform_func)." />
+      <item value="transform function on generator's outputs." />
+      <item value="Returns a Tensor or namedtuple of tensors with field `loss`, which is a Tensor of shape [batch_size] a loss term for optimizing the generator." />
+      <item value="assuming batch-major." />
+      <item value="It is for used in the ReluMLP to enable explicit computation of diagonals of input-output Jacobian." />
+      <item value="Feed Forward network with CNN" />
+      <item value="Diagonals of input-output Jacobian can be computed directly without calling autograd." />
+      <item value="Fisher Neural Sampler, optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
+      <item value="number of iterations of inverse_mvp network training per single iteration of generator training." />
+      <item value="weight on &quot;extra&quot; dimensions when forcing full rank Jacobian" />
+      <item value="When the generator is not sqaure, we ensure this by sampling an input noise vector of the same size as the output, and only forwarding the first ``noise_dim`` components. We then add the full noise vector to the output, multiplied by the ``fullrank_diag_weight``." />
+      <item value="generator function" />
+      <item value="generator" />
+      <item value="the dimension of the jacobian of the generator function needs to be square -- therefore invertible." />
+      <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
+      <item value="discrepancy" />
+      <item value="optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
+      <item value="Fisher Neural Sampler" />
+      <item value="kernel matrix inversion" />
+      <item value="empirical expectation of SVGD is evaluated by splitting half of the sampled batch." />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1631622155902" />
+  </component>
+</application>

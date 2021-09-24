@@ -1,0 +1,11 @@
+<application>
+  <component name="CommentTokenConfiguration">
+    <option name="customTokens">
+      <list>
+        <option value="\" />
+        <option value="%" />
+        <option value="*" />
+      </list>
+    </option>
+  </component>
+</application>
