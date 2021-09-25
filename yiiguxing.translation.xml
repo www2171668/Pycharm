@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="bool): If True, use `tensor_" />
+      <item value="serve as a positive threshold" />
+      <item value="If not None, serve as a positive threshold" />
       <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
       <item value="first project" />
       <item value="inverse frequency with which to perform the operation." />
@@ -51,12 +54,17 @@
       <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
       <item value="discrepancy" />
       <item value="optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
-      <item value="Fisher Neural Sampler" />
-      <item value="kernel matrix inversion" />
-      <item value="empirical expectation of SVGD is evaluated by splitting half of the sampled batch." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631622155902" />
+    <option name="lastTrimTime" value="1632557036774" />
+  </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
