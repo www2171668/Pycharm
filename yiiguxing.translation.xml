@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="This is in contrast to Sutskever et. al. and other frameworks which employ an update of the form" />
+      <item value="The implementation of SGD with MomentumNesterov subtly differs from Sutskever et. al." />
+      <item value="dampening for momentum" />
+      <item value="enables Nesterov momentum" />
       <item value="coefficients used for computing running averages of gradient and its square (default: (0.9, 0.999))." />
       <item value="iterable of parameters to optimize or dicts defining parameter groups." />
       <item value="Method" />
@@ -50,10 +54,6 @@
       <item value="It is for used in the ReluMLP to enable explicit computation of diagonals of input-output Jacobian." />
       <item value="Feed Forward network with CNN" />
       <item value="Diagonals of input-output Jacobian can be computed directly without calling autograd." />
-      <item value="Fisher Neural Sampler, optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
-      <item value="number of iterations of inverse_mvp network training per single iteration of generator training." />
-      <item value="weight on &quot;extra&quot; dimensions when forcing full rank Jacobian" />
-      <item value="When the generator is not sqaure, we ensure this by sampling an input noise vector of the same size as the output, and only forwarding the first ``noise_dim`` components. We then add the full noise vector to the output, multiplied by the ``fullrank_diag_weight``." />
     </histories>
   </component>
   <component name="Cache">
