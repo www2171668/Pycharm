@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="coefficients used for computing running averages of gradient and its square (default: (0.9, 0.999))." />
+      <item value="iterable of parameters to optimize or dicts defining parameter groups." />
       <item value="Method" />
       <item value="Implementation of Adam algorithm following Tensorflow's convention." />
       <item value="A closure that reevaluates the model and returns the loss. Optional for most optimizers." />
@@ -52,8 +54,6 @@
       <item value="number of iterations of inverse_mvp network training per single iteration of generator training." />
       <item value="weight on &quot;extra&quot; dimensions when forcing full rank Jacobian" />
       <item value="When the generator is not sqaure, we ensure this by sampling an input noise vector of the same size as the output, and only forwarding the first ``noise_dim`` components. We then add the full noise vector to the output, multiplied by the ``fullrank_diag_weight``." />
-      <item value="generator function" />
-      <item value="generator" />
     </histories>
   </component>
   <component name="Cache">
