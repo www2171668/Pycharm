@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Method" />
+      <item value="Implementation of Adam algorithm following Tensorflow's convention." />
+      <item value="A closure that reevaluates the model and returns the loss. Optional for most optimizers." />
       <item value="not None, serve as a posit" />
       <item value="bool): If True, use `tensor_" />
       <item value="serve as a positive threshold" />
@@ -51,9 +54,6 @@
       <item value="When the generator is not sqaure, we ensure this by sampling an input noise vector of the same size as the output, and only forwarding the first ``noise_dim`` components. We then add the full noise vector to the output, multiplied by the ``fullrank_diag_weight``." />
       <item value="generator function" />
       <item value="generator" />
-      <item value="the dimension of the jacobian of the generator function needs to be square -- therefore invertible." />
-      <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
-      <item value="discrepancy" />
     </histories>
   </component>
   <component name="Cache">
