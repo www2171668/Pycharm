@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="not None, serve as a posit" />
       <item value="bool): If True, use `tensor_" />
       <item value="serve as a positive threshold" />
       <item value="If not None, serve as a positive threshold" />
@@ -53,7 +54,6 @@
       <item value="the dimension of the jacobian of the generator function needs to be square -- therefore invertible." />
       <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
       <item value="discrepancy" />
-      <item value="optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
     </histories>
   </component>
   <component name="Cache">
