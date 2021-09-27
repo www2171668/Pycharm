@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="It will calculate the correct discounts and reward_per_step for high-level rl, so that the rl is optimized as if in the original non-hierarchical case with gamma=0.98. (OneStepTDLoss.gamma should be set to 1.0)." />
       <item value="preprocessors" />
       <item value="preprocessing combiner" />
       <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
@@ -53,7 +54,6 @@
       <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
       <item value="discrepancy" />
       <item value="optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
-      <item value="Fisher Neural Sampler" />
     </histories>
   </component>
   <component name="Cache">
