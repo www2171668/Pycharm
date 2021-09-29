@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="No tracked branch configured for branch HIDIO_newalf in HIDIO_newalf or the branch doesn't exist. To make your branch track a remote branch call, for example, git branch --set-upstream-to=originHIDIO_newalf HIDIO_newalf" />
       <item value="It will calculate the correct discounts and reward_per_step for high-level rl, so that the rl is optimized as if in the original non-hierarchical case with gamma=0.98. (OneStepTDLoss.gamma should be set to 1.0)." />
       <item value="preprocessors" />
       <item value="preprocessing combiner" />
@@ -53,7 +54,6 @@
       <item value="the dimension of the jacobian of the generator function needs to be square -- therefore invertible." />
       <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
       <item value="discrepancy" />
-      <item value="optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
     </histories>
   </component>
   <component name="Cache">

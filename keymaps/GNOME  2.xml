@@ -54,6 +54,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Synchronize">
