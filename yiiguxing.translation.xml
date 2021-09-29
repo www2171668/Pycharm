@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Transform to apply to the std, on top of `activation`." />
+      <item value="the standard deviation of the normal distribution" />
+      <item value="If True, std will be generated depending on the current state; otherwise a global std will be generated regardless of the current state." />
+      <item value="Whether or not to scale the output distribution to ensure that the output aciton fits within the `action_spec`. Note that this is different from `mean_transform` which merely squashes the mean to fit within the spec." />
       <item value="sync off policy trainer" />
       <item value="Async Off Policy Trainer" />
       <item value="This is in contrast to Sutskever et. al. and other frameworks which employ an update of the form" />
@@ -50,10 +54,6 @@
       <item value="product marginal distribution of P." />
       <item value="Hjelm" />
       <item value="for evaluating the network(s) parameterized by the generator's outputs (given by self._predict) on the training batch (predefined with transform_func)." />
-      <item value="transform function on generator's outputs." />
-      <item value="Returns a Tensor or namedtuple of tensors with field `loss`, which is a Tensor of shape [batch_size] a loss term for optimizing the generator." />
-      <item value="assuming batch-major." />
-      <item value="It is for used in the ReluMLP to enable explicit computation of diagonals of input-output Jacobian." />
     </histories>
   </component>
   <component name="Cache">
