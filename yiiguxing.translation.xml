@@ -4,10 +4,19 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
-      <item value="No tracked branch configured for branch HIDIO_newalf in HIDIO_newalf or the branch doesn't exist. To make your branch track a remote branch call, for example, git branch --set-upstream-to=originHIDIO_newalf HIDIO_newalf" />
-      <item value="It will calculate the correct discounts and reward_per_step for high-level rl, so that the rl is optimized as if in the original non-hierarchical case with gamma=0.98. (OneStepTDLoss.gamma should be set to 1.0)." />
-      <item value="preprocessors" />
-      <item value="preprocessing combiner" />
+      <item value="This is in contrast to Sutskever et. al. and other frameworks which employ an update of the form" />
+      <item value="The implementation of SGD with MomentumNesterov subtly differs from Sutskever et. al." />
+      <item value="dampening for momentum" />
+      <item value="enables Nesterov momentum" />
+      <item value="coefficients used for computing running averages of gradient and its square (default: (0.9, 0.999))." />
+      <item value="iterable of parameters to optimize or dicts defining parameter groups." />
+      <item value="Method" />
+      <item value="Implementation of Adam algorithm following Tensorflow's convention." />
+      <item value="A closure that reevaluates the model and returns the loss. Optional for most optimizers." />
+      <item value="not None, serve as a posit" />
+      <item value="bool): If True, use `tensor_" />
+      <item value="serve as a positive threshold" />
+      <item value="If not None, serve as a positive threshold" />
       <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
       <item value="first project" />
       <item value="inverse frequency with which to perform the operation." />
@@ -45,21 +54,13 @@
       <item value="It is for used in the ReluMLP to enable explicit computation of diagonals of input-output Jacobian." />
       <item value="Feed Forward network with CNN" />
       <item value="Diagonals of input-output Jacobian can be computed directly without calling autograd." />
-      <item value="Fisher Neural Sampler, optimal descent direction of the Stein discrepancy is solved by an inner optimization procedure in the space of L2 neural networks." />
-      <item value="number of iterations of inverse_mvp network training per single iteration of generator training." />
-      <item value="weight on &quot;extra&quot; dimensions when forcing full rank Jacobian" />
-      <item value="When the generator is not sqaure, we ensure this by sampling an input noise vector of the same size as the output, and only forwarding the first ``noise_dim`` components. We then add the full noise vector to the output, multiplied by the ``fullrank_diag_weight``." />
-      <item value="generator function" />
-      <item value="generator" />
-      <item value="the dimension of the jacobian of the generator function needs to be square -- therefore invertible." />
-      <item value="whether or not to use a running average of the kernel bandwith for ParVI methods." />
-      <item value="discrepancy" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632725481878" />
+    <option name="lastTrimTime" value="1632557036774" />
   </component>
   <component name="Settings">
+    <option name="foldOriginal" value="true" />
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
