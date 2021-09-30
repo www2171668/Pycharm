@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="rue NormalProjectionNetwork.m" />
       <item value="umber of time steps each environment proceeds per iteration. The total number of time steps from all environments per iteration can be computed as: ``num_envs env_batch_size unroll_length`" />
       <item value="flush summary to disk every so many seconds" />
       <item value="number of update iterations" />
@@ -53,7 +54,6 @@
       <item value="product" />
       <item value="joint" />
       <item value="distribution" />
-      <item value="Q is the product marginal distribution of P." />
     </histories>
   </component>
   <component name="Cache">
