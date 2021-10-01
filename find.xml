@@ -15,6 +15,7 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.json</mask>
+    <mask>*.gin</mask>
     <mask>*.py</mask>
   </component>
 </application>
