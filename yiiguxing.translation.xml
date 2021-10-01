@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="temporally bached inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
+      <item value="This function will serve the same purpose with ``after_update`` if there is always only one gradient update in each training iteration. Otherwise it's less frequently called than ``after_update``." />
       <item value="This is in contrast to Sutskever et. al. and other frameworks which employ an update of the form" />
       <item value="The implementation of SGD with MomentumNesterov subtly differs from Sutskever et. al." />
       <item value="dampening for momentum" />
@@ -52,12 +54,10 @@
       <item value="Returns a Tensor or namedtuple of tensors with field `loss`, which is a Tensor of shape [batch_size] a loss term for optimizing the generator." />
       <item value="assuming batch-major." />
       <item value="It is for used in the ReluMLP to enable explicit computation of diagonals of input-output Jacobian." />
-      <item value="Feed Forward network with CNN" />
-      <item value="Diagonals of input-output Jacobian can be computed directly without calling autograd." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632557036774" />
+    <option name="lastTrimTime" value="1633088236797" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
