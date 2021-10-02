@@ -5,6 +5,7 @@
       <mapping pattern="sac_ant.gin" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="gin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
