@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="When switch_skill is because of FINAL steps," />
+      <item value="filling 0s might have issues if the FINAL step comes before num_steps_per_skill." />
+      <item value="1d bool Tensor with shape[0] == target.shape[0]" />
+      <item value="If you simply want to do some conditional computation without actually returning any results. You can use conditional_update in the following way:" />
       <item value="Compute result as an update of ``target`` based on ``cond``" />
       <item value="cond" />
       <item value="temporally batched inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
@@ -50,10 +54,6 @@
       <item value="product" />
       <item value="joint" />
       <item value="distribution" />
-      <item value="Q is the product marginal distribution of P." />
-      <item value="product marginal distribution of P." />
-      <item value="Hjelm" />
-      <item value="for evaluating the network(s) parameterized by the generator's outputs (given by self._predict) on the training batch (predefined with transform_func)." />
     </histories>
   </component>
   <component name="Cache">
