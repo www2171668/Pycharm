@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Compute result as an update of ``target`` based on ``cond``" />
+      <item value="cond" />
       <item value="temporally batched inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
       <item value="In call to configurable" />
       <item value="temporally bached inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
@@ -52,8 +54,6 @@
       <item value="product marginal distribution of P." />
       <item value="Hjelm" />
       <item value="for evaluating the network(s) parameterized by the generator's outputs (given by self._predict) on the training batch (predefined with transform_func)." />
-      <item value="transform function on generator's outputs." />
-      <item value="Returns a Tensor or namedtuple of tensors with field `loss`, which is a Tensor of shape [batch_size] a loss term for optimizing the generator." />
     </histories>
   </component>
   <component name="Cache">
