@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="it will be stored into retrieved from replay buffer and and retrieved for ``train_step()`` as ``rollout_info``." />
       <item value="Transform the node of a nested structure indicated by ``field`` using ``func``." />
       <item value="When switch_skill is because of FINAL steps," />
       <item value="filling 0s might have issues if the FINAL step comes before num_steps_per_skill." />
@@ -53,11 +54,10 @@
       <item value="marginal" />
       <item value="experience" />
       <item value="product" />
-      <item value="joint" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633088236797" />
+    <option name="lastTrimTime" value="1633604386344" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
