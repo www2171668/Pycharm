@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="structure" />
+      <item value="path is useful when an algorithm needs to directly access the data about itself in replay buffer" />
       <item value="it will be stored into retrieved from replay buffer and and retrieved for ``train_step()`` as ``rollout_info``." />
       <item value="Transform the node of a nested structure indicated by ``field`` using ``func``." />
       <item value="When switch_skill is because of FINAL steps," />
@@ -52,8 +54,6 @@
       <item value="diagonal normal distribution" />
       <item value="solftplus" />
       <item value="marginal" />
-      <item value="experience" />
-      <item value="product" />
     </histories>
   </component>
   <component name="Cache">
