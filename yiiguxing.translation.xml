@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Run ``func`` under summary record context." />
       <item value="observe for replay" />
       <item value="Record an experience in a replay buffer." />
       <item value="structure" />
@@ -53,7 +54,6 @@
       <item value="A simple circular buffer supporting random sampling" />
       <item value="type of sampler used to get samples from marginal distribution," />
       <item value="shuffle" />
-      <item value="diagonal normal distribution" />
     </histories>
   </component>
   <component name="Cache">
