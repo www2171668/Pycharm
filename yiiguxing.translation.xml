@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Scores the sample by inverting the transform(s)" />
+      <item value="Scores the sample by inverting the transform(s) and computing the score using the score of the base distribution and the log abs det jacobian." />
       <item value="_collect train info parallelly" />
       <item value="Convert distributions to its parameters, and keep tensors unchanged. Only returns parameters that have ``Tensor`` values." />
       <item value="This function additionally transforms rewards on top of the ``transform_timestep()`` of the base class ``Algorithm``." />
@@ -52,8 +54,6 @@
       <item value="We anyways need to check has_space after the wait timed out." />
       <item value="Terminology: we use ``pos`` as in ``_current_pos`` to refer to the always increasing position of an element in the infinitly long buffer," />
       <item value="all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
-      <item value="Batched Ring Buffer." />
-      <item value="Multiprocessing safe, optionally via: ``allow_multiprocess`` flag, blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
     </histories>
   </component>
   <component name="Cache">
