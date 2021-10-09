@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="This function additionally transforms rewards on top of the ``transform_timestep()`` of the base class ``Algorithm``." />
       <item value="Run ``func`` under summary record context." />
       <item value="observe for replay" />
       <item value="Record an experience in a replay buffer." />
@@ -53,7 +54,6 @@
       <item value="Multiprocessing safe, optionally via: ``allow_multiprocess`` flag, blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
       <item value="A simple circular buffer supporting random sampling" />
       <item value="type of sampler used to get samples from marginal distribution," />
-      <item value="shuffle" />
     </histories>
   </component>
   <component name="Cache">
