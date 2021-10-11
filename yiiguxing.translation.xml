@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="mark" />
+      <item value="marks" />
       <item value="entropy" />
       <item value="Scores the sample by inverting the transform(s)" />
       <item value="Scores the sample by inverting the transform(s) and computing the score using the score of the base distribution and the log abs det jacobian." />
@@ -52,8 +54,6 @@
       <item value="allows outside to stop enqueue and dequeue processes from waiting" />
       <item value="Current ending positions of data in the buffer without modulo." />
       <item value="Add a batch of items to the buffer (atomic)." />
-      <item value="We anyways need to check has_space after the wait timed out." />
-      <item value="Terminology: we use ``pos`` as in ``_current_pos`` to refer to the always increasing position of an element in the infinitly long buffer," />
     </histories>
   </component>
   <component name="Cache">
