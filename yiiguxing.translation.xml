@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Both observation and action are a stacking of recent states, with the most recent one appearing at index=0." />
+      <item value="this function makes the skill-conditioned observation for the lower-level policy." />
       <item value="mark" />
       <item value="marks" />
       <item value="entropy" />
@@ -52,8 +54,6 @@
       <item value="Exposes a pair of matched flatten and unflatten methods." />
       <item value="Facilitates flattening and unflattening batch dims of a tensor" />
       <item value="allows outside to stop enqueue and dequeue processes from waiting" />
-      <item value="Current ending positions of data in the buffer without modulo." />
-      <item value="Add a batch of items to the buffer (atomic)." />
     </histories>
   </component>
   <component name="Cache">
