@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in docstrings or in Python 3" />
+      <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in doc&#10;strings or in Python 3" />
       <item value="tag (str): the summary tag for the the time." />
       <item value="Create a context object for recording time." />
       <item value="Both observation and action are a stacking of recent states, with the most recent one appearing at index=0." />
@@ -52,8 +54,6 @@
       <item value="first observation of a skill" />
       <item value="Conditional operations" />
       <item value="Log metrics through logging." />
-      <item value="Flattens and caches the tensor's batch_dims" />
-      <item value="Exposes a pair of matched flatten and unflatten methods." />
     </histories>
   </component>
   <component name="Cache">
