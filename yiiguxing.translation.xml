@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
+      <item value="generate intrinsic rewards using the discriminator (fixed), for training the skill-conditioned policy." />
+      <item value="take the skill generated during ``rollout_step`` and output it as the skill for the current time step." />
       <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in docstrings or in Python 3" />
       <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in doc&#10;strings or in Python 3" />
       <item value="tag (str): the summary tag for the the time." />
@@ -51,13 +54,10 @@
       <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
       <item value="first project" />
       <item value="inverse frequency with which to perform the operation." />
-      <item value="first observation of a skill" />
-      <item value="Conditional operations" />
-      <item value="Log metrics through logging." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633604386344" />
+    <option name="lastTrimTime" value="1634379861384" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
