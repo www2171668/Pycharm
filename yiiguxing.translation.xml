@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="state used for calling ``rollout()`` to get the ``policy_step``." />
       <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
       <item value="generate intrinsic rewards using the discriminator (fixed), for training the skill-conditioned policy." />
       <item value="take the skill generated during ``rollout_step`` and output it as the skill for the current time step." />
@@ -53,7 +54,6 @@
       <item value="If not None, serve as a positive threshold" />
       <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
       <item value="first project" />
-      <item value="inverse frequency with which to perform the operation." />
     </histories>
   </component>
   <component name="Cache">
