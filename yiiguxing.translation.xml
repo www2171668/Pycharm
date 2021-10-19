@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Convert distributions to its parameters, and keep tensors unchanged. Only returns parameters that have ``Tensor`` values." />
       <item value="state used for calling ``rollout()`` to get the ``policy_step``." />
       <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
       <item value="generate intrinsic rewards using the discriminator (fixed), for training the skill-conditioned policy." />
@@ -20,7 +21,6 @@
       <item value="Scores the sample by inverting the transform(s)" />
       <item value="Scores the sample by inverting the transform(s) and computing the score using the score of the base distribution and the log abs det jacobian." />
       <item value="_collect train info parallelly" />
-      <item value="Convert distributions to its parameters, and keep tensors unchanged. Only returns parameters that have ``Tensor`` values." />
       <item value="This function additionally transforms rewards on top of the ``transform_timestep()`` of the base class ``Algorithm``." />
       <item value="Run ``func`` under summary record context." />
       <item value="observe for replay" />
