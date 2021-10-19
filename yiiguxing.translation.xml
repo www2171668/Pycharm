@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Can only be applied on class methods, whose containing class must have ``_lock`` set to ``None`` or a ``multiprocessing.Lock`` object." />
+      <item value="Cannot find a native torch function for setting default device. We have to hack our own." />
+      <item value="A context manager for prefixing summary names." />
       <item value="Convert distributions to its parameters, and keep tensors unchanged. Only returns parameters that have ``Tensor`` values." />
       <item value="state used for calling ``rollout()`` to get the ``policy_step``." />
       <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
@@ -51,9 +54,6 @@
       <item value="not None, serve as a posit" />
       <item value="bool): If True, use `tensor_" />
       <item value="serve as a positive threshold" />
-      <item value="If not None, serve as a positive threshold" />
-      <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
-      <item value="first project" />
     </histories>
   </component>
   <component name="Cache">
