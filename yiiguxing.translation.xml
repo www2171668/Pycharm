@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="This buffer doesn't preserve temporality as data from multiple environments will be arbitrarily stored." />
+      <item value="Stop waiting processes from being blocked." />
+      <item value="nested Tensors or None when blocking dequeue gets terminated by stop event. The shape of the Tensors is ``[batch_size, n, ...]``." />
+      <item value="dequeue" />
       <item value="Note, when ``blocking == False``, it always succeeds, overwriting oldest data if there is no free slot." />
       <item value="blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
       <item value="Once stop event is set, all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
@@ -50,10 +54,6 @@
       <item value="temporally bached inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
       <item value="This function will serve the same purpose with ``after_update`` if there is always only one gradient update in each training iteration. Otherwise it's less frequently called than ``after_update``." />
       <item value="This is in contrast to Sutskever et. al. and other frameworks which employ an update of the form" />
-      <item value="The implementation of SGD with MomentumNesterov subtly differs from Sutskever et. al." />
-      <item value="dampening for momentum" />
-      <item value="enables Nesterov momentum" />
-      <item value="coefficients used for computing running averages of gradient and its square (default: (0.9, 0.999))." />
     </histories>
   </component>
   <component name="Cache">
