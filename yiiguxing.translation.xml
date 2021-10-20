@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="synchronous" />
+      <item value="A batch of `sample_batch_size` items is returned, where each tensor in items will have its first dimension equal to sample_batch_size and the rest of the dimensions match the corresponding data_spec." />
       <item value="The environments where the sampels are from ordered in the returned batch." />
       <item value="Randomly get `batch_size` trajectories from the buffer." />
       <item value="Can only be applied on class methods, whose containing class must have ``_lock`` set to ``None`` or a ``multiprocessing.Lock`` object." />
@@ -52,8 +54,6 @@
       <item value="iterable of parameters to optimize or dicts defining parameter groups." />
       <item value="Method" />
       <item value="Implementation of Adam algorithm following Tensorflow's convention." />
-      <item value="A closure that reevaluates the model and returns the loss. Optional for most optimizers." />
-      <item value="not None, serve as a posit" />
     </histories>
   </component>
   <component name="Cache">
