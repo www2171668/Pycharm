@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Note, when ``blocking == False``, it always succeeds, overwriting oldest data if there is no free slot." />
+      <item value="blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
+      <item value="Once stop event is set, all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
       <item value="synchronous" />
       <item value="A batch of `sample_batch_size` items is returned, where each tensor in items will have its first dimension equal to sample_batch_size and the rest of the dimensions match the corresponding data_spec." />
       <item value="The environments where the sampels are from ordered in the returned batch." />
@@ -51,9 +54,6 @@
       <item value="dampening for momentum" />
       <item value="enables Nesterov momentum" />
       <item value="coefficients used for computing running averages of gradient and its square (default: (0.9, 0.999))." />
-      <item value="iterable of parameters to optimize or dicts defining parameter groups." />
-      <item value="Method" />
-      <item value="Implementation of Adam algorithm following Tensorflow's convention." />
     </histories>
   </component>
   <component name="Cache">
