@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="The environments where the sampels are from ordered in the returned batch." />
+      <item value="Randomly get `batch_size` trajectories from the buffer." />
       <item value="Can only be applied on class methods, whose containing class must have ``_lock`` set to ``None`` or a ``multiprocessing.Lock`` object." />
       <item value="Cannot find a native torch function for setting default device. We have to hack our own." />
       <item value="A context manager for prefixing summary names." />
@@ -52,8 +54,6 @@
       <item value="Implementation of Adam algorithm following Tensorflow's convention." />
       <item value="A closure that reevaluates the model and returns the loss. Optional for most optimizers." />
       <item value="not None, serve as a posit" />
-      <item value="bool): If True, use `tensor_" />
-      <item value="serve as a positive threshold" />
     </histories>
   </component>
   <component name="Cache">
