@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="rets" />
       <item value="Expand the shape of ``x`` with extra singular dimensions." />
       <item value="Trusted Updater" />
       <item value="Make sure to instantiate with parenthesis.)" />
@@ -53,7 +54,6 @@
       <item value="filling 0s might have issues if the FINAL step comes before num_steps_per_skill." />
       <item value="1d bool Tensor with shape[0] == target.shape[0]" />
       <item value="If you simply want to do some conditional computation without actually returning any results. You can use conditional_update in the following way:" />
-      <item value="Compute result as an update of ``target`` based on ``cond``" />
     </histories>
   </component>
   <component name="Cache">
