@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="These paras will train themselves, so let the parent algorithm ignore them" />
       <item value="extra" />
       <item value="rets" />
       <item value="Expand the shape of ``x`` with extra singular dimensions." />
@@ -53,11 +54,10 @@
       <item value="Transform the node of a nested structure indicated by ``field`` using ``func``." />
       <item value="When switch_skill is because of FINAL steps," />
       <item value="filling 0s might have issues if the FINAL step comes before num_steps_per_skill." />
-      <item value="1d bool Tensor with shape[0] == target.shape[0]" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634379861384" />
+    <option name="lastTrimTime" value="1634899321267" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
