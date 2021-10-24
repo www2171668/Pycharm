@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Calculate the reward actually used for training." />
       <item value="replace reward in `experience` with the freshly computed intrinsic rewards by the goal generator during `train_step`." />
       <item value="eplace reward in `experience` with the freshly computed intrinsic rewards by the goal generator during `train_step`." />
       <item value="dubbed" />
@@ -53,7 +54,6 @@
       <item value="Run ``func`` under summary record context." />
       <item value="observe for replay" />
       <item value="Record an experience in a replay buffer." />
-      <item value="structure" />
     </histories>
   </component>
   <component name="Cache">
