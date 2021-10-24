@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="replace reward in `experience` with the freshly computed intrinsic rewards by the goal generator during `train_step`." />
+      <item value="eplace reward in `experience` with the freshly computed intrinsic rewards by the goal generator during `train_step`." />
       <item value="dubbed" />
       <item value="The initialized network parameters will be different." />
       <item value="Parallel Critic Network" />
@@ -52,8 +54,6 @@
       <item value="observe for replay" />
       <item value="Record an experience in a replay buffer." />
       <item value="structure" />
-      <item value="path is useful when an algorithm needs to directly access the data about itself in replay buffer" />
-      <item value="it will be stored into retrieved from replay buffer and and retrieved for ``train_step()`` as ``rollout_info``." />
     </histories>
   </component>
   <component name="Cache">
