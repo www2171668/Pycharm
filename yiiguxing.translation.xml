@@ -1,63 +1,63 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Create a context object for recording time." />
+      <item value="Calculate the reward actually used for training." />
+      <item value="replace reward in `experience` with the freshly computed intrinsic rewards by the goal generator during `train_step`." />
+      <item value="eplace reward in `experience` with the freshly computed intrinsic rewards by the goal generator during `train_step`." />
+      <item value="dubbed" />
+      <item value="The initialized network parameters will be different." />
+      <item value="Parallel Critic Network" />
+      <item value="These paras will train themselves, so let the parent algorithm ignore them" />
+      <item value="extra" />
+      <item value="rets" />
+      <item value="Expand the shape of ``x`` with extra singular dimensions." />
+      <item value="Trusted Updater" />
+      <item value="Make sure to instantiate with parenthesis.)" />
+      <item value="It will reduce memory consumption for computations that would otherwise have `requires_grad=True`." />
+      <item value="Used for annotating the decorator usage of 'no_grad' and 'enable_grad'." />
+      <item value="Allow a context manager to be used as a decorator" />
+      <item value="This buffer doesn't preserve temporality as data from multiple environments will be arbitrarily stored." />
+      <item value="Stop waiting processes from being blocked." />
+      <item value="nested Tensors or None when blocking dequeue gets terminated by stop event. The shape of the Tensors is ``[batch_size, n, ...]``." />
+      <item value="dequeue" />
+      <item value="Note, when ``blocking == False``, it always succeeds, overwriting oldest data if there is no free slot." />
+      <item value="blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
+      <item value="Once stop event is set, all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
+      <item value="synchronous" />
+      <item value="A batch of `sample_batch_size` items is returned, where each tensor in items will have its first dimension equal to sample_batch_size and the rest of the dimensions match the corresponding data_spec." />
+      <item value="The environments where the sampels are from ordered in the returned batch." />
+      <item value="Randomly get `batch_size` trajectories from the buffer." />
+      <item value="Can only be applied on class methods, whose containing class must have ``_lock`` set to ``None`` or a ``multiprocessing.Lock`` object." />
+      <item value="Cannot find a native torch function for setting default device. We have to hack our own." />
+      <item value="A context manager for prefixing summary names." />
+      <item value="Convert distributions to its parameters, and keep tensors unchanged. Only returns parameters that have ``Tensor`` values." />
+      <item value="state used for calling ``rollout()`` to get the ``policy_step``." />
+      <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
+      <item value="generate intrinsic rewards using the discriminator (fixed), for training the skill-conditioned policy." />
+      <item value="take the skill generated during ``rollout_step`` and output it as the skill for the current time step." />
+      <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in docstrings or in Python 3" />
+      <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in doc&#10;strings or in Python 3" />
+      <item value="tag (str): the summary tag for the the time." />
+      <item value="Both observation and action are a stacking of recent states, with the most recent one appearing at index=0." />
+      <item value="this function makes the skill-conditioned observation for the lower-level policy." />
+      <item value="mark" />
+      <item value="marks" />
+      <item value="entropy" />
+      <item value="Scores the sample by inverting the transform(s)" />
+      <item value="Scores the sample by inverting the transform(s) and computing the score using the score of the base distribution and the log abs det jacobian." />
+      <item value="_collect train info parallelly" />
+      <item value="This function additionally transforms rewards on top of the ``transform_timestep()`` of the base class ``Algorithm``." />
+      <item value="Run ``func`` under summary record context." />
       <item value="observe for replay" />
       <item value="Record an experience in a replay buffer." />
-      <item value="structure" />
-      <item value="path is useful when an algorithm needs to directly access the data about itself in replay buffer" />
-      <item value="it will be stored into retrieved from replay buffer and and retrieved for ``train_step()`` as ``rollout_info``." />
-      <item value="Transform the node of a nested structure indicated by ``field`` using ``func``." />
-      <item value="When switch_skill is because of FINAL steps," />
-      <item value="filling 0s might have issues if the FINAL step comes before num_steps_per_skill." />
-      <item value="1d bool Tensor with shape[0] == target.shape[0]" />
-      <item value="If you simply want to do some conditional computation without actually returning any results. You can use conditional_update in the following way:" />
-      <item value="Compute result as an update of ``target`` based on ``cond``" />
-      <item value="cond" />
-      <item value="temporally batched inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
-      <item value="In call to configurable" />
-      <item value="temporally bached inputs for the ``rollout_step()`` of the root algorithm collected during ``unroll()``." />
-      <item value="This function will serve the same purpose with ``after_update`` if there is always only one gradient update in each training iteration. Otherwise it's less frequently called than ``after_update``." />
-      <item value="This is in contrast to Sutskever et. al. and other frameworks which employ an update of the form" />
-      <item value="The implementation of SGD with MomentumNesterov subtly differs from Sutskever et. al." />
-      <item value="dampening for momentum" />
-      <item value="enables Nesterov momentum" />
-      <item value="coefficients used for computing running averages of gradient and its square (default: (0.9, 0.999))." />
-      <item value="iterable of parameters to optimize or dicts defining parameter groups." />
-      <item value="Method" />
-      <item value="Implementation of Adam algorithm following Tensorflow's convention." />
-      <item value="A closure that reevaluates the model and returns the loss. Optional for most optimizers." />
-      <item value="not None, serve as a posit" />
-      <item value="bool): If True, use `tensor_" />
-      <item value="serve as a positive threshold" />
-      <item value="If not None, serve as a positive threshold" />
-      <item value="you can avoid assigning an optimizer to ``self._vars`` (because the module will be assigned with one) by doing:" />
-      <item value="first project" />
-      <item value="inverse frequency with which to perform the operation." />
-      <item value="first observation of a skill" />
-      <item value="Conditional operations" />
-      <item value="Log metrics through logging." />
-      <item value="Flattens and caches the tensor's batch_dims" />
-      <item value="Exposes a pair of matched flatten and unflatten methods." />
-      <item value="Facilitates flattening and unflattening batch dims of a tensor" />
-      <item value="allows outside to stop enqueue and dequeue processes from waiting" />
-      <item value="Current ending positions of data in the buffer without modulo." />
-      <item value="Add a batch of items to the buffer (atomic)." />
-      <item value="We anyways need to check has_space after the wait timed out." />
-      <item value="Terminology: we use ``pos`` as in ``_current_pos`` to refer to the always increasing position of an element in the infinitly long buffer," />
-      <item value="all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
-      <item value="Batched Ring Buffer." />
-      <item value="Multiprocessing safe, optionally via: ``allow_multiprocess`` flag, blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
-      <item value="A simple circular buffer supporting random sampling" />
-      <item value="type of sampler used to get samples from marginal distribution," />
-      <item value="shuffle" />
-      <item value="diagonal normal distribution" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633604386344" />
+    <option name="lastTrimTime" value="1634899321267" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
