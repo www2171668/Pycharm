@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Retrieve the success info from the environment return" />
       <item value="training batches per cycle" />
       <item value="Create a context object for recording time." />
       <item value="Calculate the reward actually used for training." />
@@ -53,11 +54,10 @@
       <item value="_collect train info parallelly" />
       <item value="This function additionally transforms rewards on top of the ``transform_timestep()`` of the base class ``Algorithm``." />
       <item value="Run ``func`` under summary record context." />
-      <item value="observe for replay" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635588637691" />
+    <option name="lastTrimTime" value="1636261151563" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
