@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="the code assumes that all spaces under the nested observation space is a Box space." />
       <item value="Flattens selected keys of a Dict observation space into an array." />
       <item value="Loads the selected environment and wraps it with the specified wrappers." />
       <item value="Retrieve the success info from the environment return" />
@@ -53,7 +54,6 @@
       <item value="entropy" />
       <item value="Scores the sample by inverting the transform(s)" />
       <item value="Scores the sample by inverting the transform(s) and computing the score using the score of the base distribution and the log abs det jacobian." />
-      <item value="_collect train info parallelly" />
     </histories>
   </component>
   <component name="Cache">
