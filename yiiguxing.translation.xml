@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="port" />
       <item value="10Hz control freq" />
       <item value="egocentric" />
       <item value="agent's egocentric distance and direction to goal egocentric_perception_range (float): the max range in degree to limit the agent's observation." />
@@ -53,7 +54,6 @@
       <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in docstrings or in Python 3" />
       <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in doc&#10;strings or in Python 3" />
       <item value="tag (str): the summary tag for the the time." />
-      <item value="Both observation and action are a stacking of recent states, with the most recent one appearing at index=0." />
     </histories>
   </component>
   <component name="Cache">
