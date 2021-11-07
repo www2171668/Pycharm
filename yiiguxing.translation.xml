@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="a big number to make sure the TimeLimit wrapper ends the game" />
       <item value="port" />
       <item value="10Hz control freq" />
       <item value="egocentric" />
@@ -53,7 +54,6 @@
       <item value="take the skill generated during ``rollout_step`` and output it as the skill for the current time step." />
       <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in docstrings or in Python 3" />
       <item value="This inspection detects type errors in function call expressions. Due to dynamic dispatch and duck typing, this is possible in a limited but useful number of cases. Types of function parameters can be specified in doc&#10;strings or in Python 3" />
-      <item value="tag (str): the summary tag for the the time." />
     </histories>
   </component>
   <component name="Cache">
