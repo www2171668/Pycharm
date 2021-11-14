@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="grocery" />
       <item value="a tuple of integers representing hidden FC layer sizes FC layers after merging observations and actions." />
       <item value="A bool to gather debug summaries." />
       <item value="a big number to make sure the TimeLimit wrapper ends the game" />
@@ -53,11 +54,10 @@
       <item value="state used for calling ``rollout()`` to get the ``policy_step``." />
       <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
       <item value="generate intrinsic rewards using the discriminator (fixed), for training the skill-conditioned policy." />
-      <item value="take the skill generated during ``rollout_step`` and output it as the skill for the current time step." />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636261151563" />
+    <option name="lastTrimTime" value="1636859558089" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
