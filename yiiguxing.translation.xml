@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="TaacL's trajectory is piece-wise linear. Each time the policy decides whether to repeat the previous linear traj or generate a new one. Importantly, to generate a new one the policy doesn't directly generate the entire set of two parameters :math:`(a,v)` because this will result in bad exploration in the action space. Instead," />
       <item value="grocery" />
       <item value="a tuple of integers representing hidden FC layer sizes FC layers after merging observations and actions." />
       <item value="A bool to gather debug summaries." />
@@ -53,7 +54,6 @@
       <item value="Convert distributions to its parameters, and keep tensors unchanged. Only returns parameters that have ``Tensor`` values." />
       <item value="state used for calling ``rollout()`` to get the ``policy_step``." />
       <item value="this steps will be inaccurate if FINAL step comes before num_steps_per_skill" />
-      <item value="generate intrinsic rewards using the discriminator (fixed), for training the skill-conditioned policy." />
     </histories>
   </component>
   <component name="Cache">
