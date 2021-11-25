@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Create as a buffer so that training from a checkpoint will have the correct flag." />
       <item value="td return till the first action switching" />
       <item value="masks indicating which samples are valid." />
       <item value="The current second derivative of action" />
@@ -53,12 +54,11 @@
       <item value="Once stop event is set, all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
       <item value="synchronous" />
       <item value="A batch of `sample_batch_size` items is returned, where each tensor in items will have its first dimension equal to sample_batch_size and the rest of the dimensions match the corresponding data_spec." />
-      <item value="The environments where the sampels are from ordered in the returned batch." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
