@@ -61,10 +61,5 @@
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
   </component>
 </application>
