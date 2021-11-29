@@ -4,8 +4,9 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
-      <item value="an optional list of integers specifying outer dimensions to add to the spec shape before sampling." />
+      <item value="for getting randomized tau in training" />
       <item value="logits are equivalent after subtracting a common number" />
+      <item value="an optional list of integers specifying outer dimensions to add to the spec shape before sampling." />
       <item value="This should be a deterministic function converting b1_a to b1_tau" />
       <item value="Create as a buffer so that training from a checkpoint will have the correct flag." />
       <item value="td return till the first action switching" />
@@ -53,12 +54,11 @@
       <item value="nested Tensors or None when blocking dequeue gets terminated by stop event. The shape of the Tensors is ``[batch_size, n, ...]``." />
       <item value="dequeue" />
       <item value="Note, when ``blocking == False``, it always succeeds, overwriting oldest data if there is no free slot." />
-      <item value="blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
