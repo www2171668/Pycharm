@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="an optional list of integers specifying outer dimensions to add to the spec shape before sampling." />
       <item value="logits are equivalent after subtracting a common number" />
       <item value="This should be a deterministic function converting b1_a to b1_tau" />
       <item value="Create as a buffer so that training from a checkpoint will have the correct flag." />
@@ -53,17 +54,16 @@
       <item value="dequeue" />
       <item value="Note, when ``blocking == False``, it always succeeds, overwriting oldest data if there is no free slot." />
       <item value="blocking modes to ``enqueue`` and ``dequeue``, a stop event to terminate blocked processes, and putting buffer into shared memory." />
-      <item value="Once stop event is set, all blocking ``enqueue`` and ``dequeue`` calls that happen afterwards will be skipped, unless the operation already started." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637737516742" />
+    <option name="lastTrimTime" value="1638174421029" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
