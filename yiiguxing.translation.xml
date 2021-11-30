@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="976" />
     <option name="newTranslationDialogY" value="243" />
     <histories>
+      <item value="Computes log probability of actions given distribution." />
       <item value="for getting randomized tau in training" />
       <item value="logits are equivalent after subtracting a common number" />
       <item value="an optional list of integers specifying outer dimensions to add to the spec shape before sampling." />
@@ -53,12 +54,11 @@
       <item value="Stop waiting processes from being blocked." />
       <item value="nested Tensors or None when blocking dequeue gets terminated by stop event. The shape of the Tensors is ``[batch_size, n, ...]``." />
       <item value="dequeue" />
-      <item value="Note, when ``blocking == False``, it always succeeds, overwriting oldest data if there is no free slot." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
